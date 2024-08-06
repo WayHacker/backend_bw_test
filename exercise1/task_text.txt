@@ -1,0 +1,5 @@
+Создайте программу которая будет выводить тип данных в зависимости от входного значения.
+Input = 23 --> Output = int
+Input = 2.3 --> Output = float
+Input = "Hello" --> Output = str
+Input = True --> Output = bool
